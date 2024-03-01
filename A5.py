@@ -18,6 +18,3 @@ with np.printoptions(precision=0):
     print(f"\nMatriz de rotación en X:\n{matriz_rotacion_x}")
     print(f"\nMatriz de rotación en Y:\n{matriz_rotacion_y}")
     print(f"\nMatriz de rotación en Z:\n{matriz_rotacion_z}")
-
-
-

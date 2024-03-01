@@ -10,3 +10,4 @@ while True:
         break 
     else:
         print("Respuesta inválida. Responda con 'Si' o 'No'.")
+        

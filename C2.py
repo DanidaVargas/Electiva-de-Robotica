@@ -1,4 +1,4 @@
-#pedir frecuencia natural y ganancia 
+
 import numpy as np
 import matplotlib.pyplot as plt
 

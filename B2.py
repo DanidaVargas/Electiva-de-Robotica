@@ -8,3 +8,4 @@ print("\nNúmeros aleatorios generados:")
 for x in range(cantidad):
     num = random.randint(inicio, fin)
     print(num)
+    
